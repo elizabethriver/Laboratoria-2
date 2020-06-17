@@ -1,0 +1,5 @@
+const rA1 = "a";
+const rA2 = "c";
+const rA3 = "c";
+const respuestas_comp_TriviaA = [rA1, rA2, rA3];
+document.getElementById("respuesta_correctaA").innerHTML = respuestas_comp_TriviaA;
